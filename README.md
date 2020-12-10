@@ -4,4 +4,4 @@
 Eight features have been selected that give the highest accuracy. The value of these features is found using web scraping.\
 '-1' represents 'Phishing' \
 '0' represents 'Suspicious' \
-'1' represents 'Legitimate' \
+'1' represents 'Legitimate' 
